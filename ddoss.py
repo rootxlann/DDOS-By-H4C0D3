@@ -28,11 +28,11 @@ year = now.year
 def logo():
 	os.system('clear')
 	print(pink+red+b+'''
-	           █▀▄ █▀▄ █▀█ █▀  
-	           █▄▀ █▄▀ █▄█ ▄█  
+	  
 	
-	  █▄▄ █▄█   █░█ ▄▀█ █▀▀ █▀█ █▀▄ █▀▀
-	  █▄█ ░█░   █▀█ █▀█ █▄▄ █▄█ █▄▀ ██▄   '''+b+red+pink)
+	
+	
+	'''+b+red+pink)
 	
 
 
@@ -46,9 +46,9 @@ bytes = random._urandom(1490)
 def first(self):
 	logo()
 	print("")
-	print(pink+b+"Author     : HACODE"+b+pink)
-	print("Team	    : UNITED HACKERS")
-	print("YouTube    : HACODE")
+	print(pink+b+"Author     : UNMEI"+b+pink)
+	print("Team	    : Guck Community")
+	print("YouTube    : Coming soon")
 	print("")
 	
 	#
